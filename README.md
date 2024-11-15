@@ -16,4 +16,5 @@ My first repository
 
 **My most favorite movie/ series is:**
 **Arcane Season 2**
-![alt text](https://www.uhdpaper.com/2021/10/kid-jinx-arcane-4k-2060e.html?m=0)
+![image](https://github.com/user-attachments/assets/1c540c43-c1a9-4eb8-99f5-2818855deba4)
+
