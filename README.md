@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-*List of my Favorite Series/Movies:*
+*List of my Favorite Series/Movies:* :smile:
 - The Beekeeper
 - Fast and Furious 7
 - Pearl Harbor
@@ -16,6 +16,7 @@ My first repository
 
 **My most favorite movie/ series is:**
  **Arcane Season 2** :sparkles: 
+ -
 ![image](https://github.com/user-attachments/assets/9f4c4fc0-1875-48cd-8f13-7f85328be692)
 
 
