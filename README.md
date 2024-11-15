@@ -1,6 +1,6 @@
 # app-dev
 ## My first repository
--
+
 *List of my Favorite Series/Movies:* :smile:
 - The Beekeeper
 - Fast and Furious 7
