@@ -15,6 +15,7 @@ My first repository
 5. Fast and Furious 7
 
 **My most favorite movie/ series is:**
-**Arcane Season 2**
-![image](https://github.com/user-attachments/assets/1c540c43-c1a9-4eb8-99f5-2818855deba4)
+> **Arcane Season 2**
+![image](https://github.com/user-attachments/assets/c8b5a830-2729-4210-bb9a-a34f27f04c15)
+
 
